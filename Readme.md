@@ -65,7 +65,7 @@ Once the application is running:
 
 Include the screenshots in the `screenshots/` folder and reference them here:
 
-[![Watch Video](screenshots/video_thumbnail.png)](static/demo_video.mp4)
+[![Watch Video]](static/digital_frauds.mp4)
 
 *Click the image above to watch the demo video.*
 
@@ -81,11 +81,6 @@ We welcome contributions to enhance the content and functionality of this websit
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 For any questions or suggestions, feel free to open an issue or contact the repository owner.
 
